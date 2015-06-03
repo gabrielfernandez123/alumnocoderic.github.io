@@ -3,7 +3,7 @@ layout: default
 title: Página de proyectos del alumno gabriel fernandez
 ---
 
-
+![Foto del Liceo](http://graph.facebook.com/UEE.gabrielnpcfernandez/picture?type=large "titulo")
 # Página de proyectos del alumno gabriel fernandez
 Bienvenidos a mi página de proyectos, este es mi espacio personal donde publicaré mis proyectos de informática.
 
