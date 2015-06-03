@@ -3,7 +3,7 @@ layout: default
 title: Página de proyectos del alumno gabriel fernandez
 ---
 
-![Foto del Liceo](http://graph.facebook.com/UEE.gabrielnpcfernandez123/picture?type=large "titulo")
+![Foto del Liceo](http://graph.facebook.com/UEE.gabrielnpcfernandez/picture?type=large "titulo")
 # Página de proyectos del alumno gabriel fernandez
 Bienvenidos a mi página de proyectos, este es mi espacio personal donde publicaré mis proyectos de informática.
 
@@ -13,9 +13,9 @@ Soy un alumno que desea aprender sobre informatica y todo lo que sea referente a
 ## ¿Qué me gusta?
 
 * Informática
-* Chocolate
-* La Playa
-* La buena música
+* Hip hop
+* deportes
+* estudio
 
 # Esto es un H1
 
