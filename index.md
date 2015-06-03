@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Página de proyectos del alumno Alan Brito
+title: Página de proyectos del alumno gabriel fernandez
 ---
 
 
-# Página de proyectos del alumno Alan Brito
+# Página de proyectos del alumno gabriel fernandez
 Bienvenidos a mi página de proyectos, este es mi espacio personal donde publicaré mis proyectos de informática.
 
 ## ¿Quién soy? 
-Soy un Alumno apasionado por el Aprendizaje, compartir ideas, me gustan los debates y sacar 20 en todas las materias, nunca me copio porque se que tengo la capacidad de hacer lo mejor.
+Soy un alumno que desea aprender sobre informatica y todo lo que sea referente a ella.
 
 ## ¿Qué me gusta?
 
